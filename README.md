@@ -1,1 +1,3 @@
-# Random-mag
+# Faucet DuinoCoin
+
+![Logo](logo/logo.png)
